@@ -64,6 +64,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "name": "zigbee-herdsman",
   "repository": {
     "type": "git",
